@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on differnt people
 - 📫 How to reach me 
       - huang.yixuan153@gmail.com
-      - yh3556@columbia.edu
+      or yh3556@columbia.edu
 
 <!---
 Huang-Yixuan-Memory/Huang-Yixuan-Memory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
